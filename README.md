@@ -6,7 +6,7 @@
 
 ### **Description**:
 - _**label**_: Label du l'image (numérique).
-- _**Pixels**_: Classe du passager (1st, 2nd or 3rd)
+- _**Pixels**_: Vecteurs representant l'image
 
 ### **Algorithmes**:
 - _K-Nearest Neighbors_
